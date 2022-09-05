@@ -1,0 +1,15 @@
+D:\C# coding\obj\Debug\net6.0\HostelFee.csproj.AssemblyReference.cache
+D:\C# coding\obj\Debug\net6.0\HostelFee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# coding\obj\Debug\net6.0\HostelFee.AssemblyInfoInputs.cache
+D:\C# coding\obj\Debug\net6.0\HostelFee.AssemblyInfo.cs
+D:\C# coding\obj\Debug\net6.0\HostelFee.csproj.CoreCompileInputs.cache
+D:\C# coding\bin\Debug\net6.0\HostelFee.exe
+D:\C# coding\bin\Debug\net6.0\HostelFee.deps.json
+D:\C# coding\bin\Debug\net6.0\HostelFee.runtimeconfig.json
+D:\C# coding\bin\Debug\net6.0\HostelFee.dll
+D:\C# coding\bin\Debug\net6.0\HostelFee.pdb
+D:\C# coding\obj\Debug\net6.0\HostelFee.dll
+D:\C# coding\obj\Debug\net6.0\refint\HostelFee.dll
+D:\C# coding\obj\Debug\net6.0\HostelFee.pdb
+D:\C# coding\obj\Debug\net6.0\HostelFee.genruntimeconfig.cache
+D:\C# coding\obj\Debug\net6.0\ref\HostelFee.dll

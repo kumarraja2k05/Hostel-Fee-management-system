@@ -1,0 +1,78 @@
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: Kumar Raja
+Hostel name: Zakir-B
+Deposited Amount: 111700
+Remaining Balance: 0
+
+*********************************************************************
+
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: shivam
+Hostel name: Nc
+Deposited Amount: 50000
+Remaining Balance: 38000
+
+*********************************************************************
+
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: Shubham
+Hostel name: Sukhna
+Deposited Amount: 60000
+Remaining Balance: 24700
+
+*********************************************************************
+
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: Sahil
+Hostel name: Zakir
+Deposited Amount: 50000
+Remaining Balance: 30850
+
+*********************************************************************
+
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: Shubh
+Hostel name: Tagore
+Deposited Amount: 60000
+Remaining Balance: 24000
+
+*********************************************************************
+
+
+*********************************************************************
+
+
+Student Details:- 
+
+Student Name: dse
+Hostel name: sde
+Deposited Amount: 0
+Remaining Balance: 0
+
+*********************************************************************
+
